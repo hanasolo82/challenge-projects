@@ -17,3 +17,10 @@ As you progress through the steps, use the terminal and console.log() statements
 
 Js code project that takes parts of sayings and mixes them into a new meaningless one.
 It will have css and html parts for local viewing or maybe I'll post it on gitpages. We'll see 
+
+### 04 Rooster Regulation.
+=========================
+
+An experimental rooster object has been developed without any tests! It’s up to you to write them.
+
+By the end of this project you will have a fast, complete, reliable, isolated, maintainable, and expressive test suite: it will provide confidence that the rooster is functioning correctly and it will act as a form of documentation for other developers.

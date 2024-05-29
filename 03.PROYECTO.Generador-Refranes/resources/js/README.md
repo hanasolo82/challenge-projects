@@ -32,5 +32,7 @@ Ubicado en otro archivo. Ver como lo extraigo . (node.js) es una de las opciones
 
                 
 
+### por hacer
 
+Eliminar los numeros de todos lados y ajustar por donde cortar y descartar lo que no cumpla un minimo
 
